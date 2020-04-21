@@ -1,7 +1,7 @@
 # sightsmap
 
 A selection of sightsmap data is under the data folder:
-* topspots_15K.js contains ca 15.000 top spots in the decreasing order of popularity. Some info fields are understandable, some are not explained.
+* topspots_15K.js contains ca 15.000 top spots in the decreasing order of popularity. 
 * topspots_15K_extended.js contains ca 15.000 top spots in the decreasing order of popularity, corresponding exactly to the top spots in the previous file.
 
 Fields in each sublist of topspots_15K_extended.js: 
