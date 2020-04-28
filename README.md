@@ -32,7 +32,6 @@ Fields in topspots_15K.js:
 * foursquare type
 * foursquare category shorthand
 * nr of foursquare places nearby (few km radius, lat+-0.02,lng+-0.04)
-* calculated popularity
 * population from geonames or 0 or missing if not found 
 
 Example:
